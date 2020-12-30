@@ -4,8 +4,8 @@ A type of data structure in C - by using structure and struct pointer
 ![Capture](https://user-images.githubusercontent.com/75990061/103326478-1f3a0780-4a83-11eb-8f97-781cdfa15cf2.PNG)  
   
 # What is linked list?  
-• Linked list is a fundamental structure in C  
-• Linked list is a dynamic data structure whose length can be increase or decrease at run time  
+##Linked list is a fundamental structure in C  
+##Linked list is a dynamic data structure whose length can be increase or decrease at run time  
 
 # About my linked list?  
 • This is doublely linked list (also included circlely linked list).  
