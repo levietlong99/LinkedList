@@ -6,6 +6,11 @@ A type of data structure in C - by using structure and struct pointer
 # What is linked list?  
 • Linked list is a fundamental structure in C  
 • Linked list is a dynamic data structure whose length can be increase or decrease at run time  
+
+# About my linked list?  
+• This is doublely linked list (also included circlely linked list). 
+• I use this for storing student information that included: name, age.  
+• Data can be store by reading and writing to txt file (originally by C).  
   
 # Advantage of linked list  
 • Dynamic data structure   
@@ -21,7 +26,7 @@ A type of data structure in C - by using structure and struct pointer
   
 • Reserve traversing  
   > In one-way linked list, reserve traversing is really difficult.  
-  > In my case, double linkedlist in use. It's useful but waste memory more than simple linked list.  
+  > In my case, doublely linkedlist in use. It's useful but waste memory more than singlely linked list.  
   
 ❤ For more information, please contact to my email: vietlongle2000@gmail.com.  
 ❤ Thank you for watch my project  
