@@ -8,7 +8,7 @@ A type of data structure in C - by using structure and struct pointer
 • Linked list is a dynamic data structure whose length can be increase or decrease at run time  
 
 # About my linked list?  
-• This is doublely linked list (also included circlely linked list). 
+• This is doublely linked list (also included circlely linked list).  
 • I use this for storing student information that included: name, age.  
 • Data can be store by reading and writing to txt file (originally by C).  
   
